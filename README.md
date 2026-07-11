@@ -2,7 +2,7 @@
 
 A Streamlit app that converts natural language questions into production-ready **Neo4j Cypher** queries, using a locally running **Ollama** model via **LangChain**. Fully local — no data leaves your machine, no API keys required.
 
-![Home screen with configuration sidebar and data upload](assets/screenshots/01-home-and-upload.png)
+<img width="1888" height="899" alt="Screenshot 2026-07-12 010108" src="https://github.com/user-attachments/assets/a56ccb51-e1ab-4be9-b3b4-88c8561f9c29" />
 
 ## Features
 
@@ -21,11 +21,13 @@ A Streamlit app that converts natural language questions into production-ready *
 
 **Describing a question and generating a query:**
 
-![Entering a natural language question and generating Cypher](assets/screenshots/02-generated-query.png)
+<img width="1871" height="817" alt="Screenshot 2026-07-12 010159" src="https://github.com/user-attachments/assets/61e5192e-31b4-4d3f-960d-1d7e856054f3" />
+
 
 **Reviewing, copying, and downloading the result:**
 
-![Generated query with copy/download tools and tips](assets/screenshots/03-output-tools.png)
+<img width="1896" height="900" alt="Screenshot 2026-07-12 010224" src="https://github.com/user-attachments/assets/2c84f723-01a3-4c2f-96c9-4fa1d84afb0e" />
+
 
 ## Requirements
 
