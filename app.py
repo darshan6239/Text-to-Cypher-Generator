@@ -235,7 +235,6 @@ st.divider()
 
 # --------------------------------------------------
 # DATA UPLOAD (schema inference)
-# --------------------------------------------------
 # Previously the app only knew about a hardcoded, generic schema
 # (Person/Company/Movie...). Real graphs rarely match that guess.
 # Here you can upload one or more CSVs — each file is treated as one
