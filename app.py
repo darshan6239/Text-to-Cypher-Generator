@@ -16,7 +16,6 @@ st.set_page_config(
 
 
 # SESSION STATE
-# --------------------------------------------------
 
 if "history" not in st.session_state:
     st.session_state.history = []
