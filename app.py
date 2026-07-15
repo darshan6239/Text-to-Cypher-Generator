@@ -20,7 +20,6 @@ st.set_page_config(
 if "history" not in st.session_state:
     st.session_state.history = []
 
-# --------------------------------------------------
 # CUSTOM CSS
 
 st.markdown("""
