@@ -108,7 +108,7 @@ font-size:14px;
 </style>
 """, unsafe_allow_html=True)
 
-# --------------------------------------------------
+
 # SIDEBAR — CONFIGURATION (all controls defined up-front,
 # before anything below tries to use them)
 # --------------------------------------------------
