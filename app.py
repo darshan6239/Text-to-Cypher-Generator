@@ -21,7 +21,6 @@ if "history" not in st.session_state:
 
 st.markdown("""
 <style>
-
 .stApp{
 background:
 radial-gradient(circle at top,
